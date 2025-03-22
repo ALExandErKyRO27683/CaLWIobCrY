@@ -37,7 +37,6 @@ export OS_AUTH_URL="http://192.168.139.50:5000/v2.0/"
 ENV_AUTH
 sed -i -e "s/ADMIN/$ADMIN_TOKEN/g" /etc/profile
 sed -i -e "s/192.168.139.50/$ServerControlIP/g" /etc/profile
-
 ## manage via web: http://192.168.139.50 （$ServerControlIP）
 ## command line:
 ##  nova list
