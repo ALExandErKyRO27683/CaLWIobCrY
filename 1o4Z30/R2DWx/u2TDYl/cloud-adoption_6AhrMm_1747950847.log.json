@@ -18,7 +18,6 @@
     "no-trailing-spaces": true,
     "no-hard-tabs": true,
     "no-reversed-links": true,
-    "no-multiple-blanks": true,
     "line-length": {
         "line_length": 100,
         "code_blocks": false,
