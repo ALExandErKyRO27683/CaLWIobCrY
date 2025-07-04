@@ -14,4 +14,3 @@ packages/cli/dist/**/e2e.*
 docker/compose
 docker/**/Dockerfile
 .vscode
-cypress
