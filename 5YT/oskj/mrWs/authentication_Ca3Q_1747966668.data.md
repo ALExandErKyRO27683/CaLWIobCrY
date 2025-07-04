@@ -33,5 +33,4 @@
 * bug fixes
   * Make `Devise` work without `ActionMailer` when `Zeitwerk` autoloader is used.
 
-Please check [4-stable](https://github.com/heartcombo/devise/blob/4-stable/CHANGELOG.md)
 for previous changes.
