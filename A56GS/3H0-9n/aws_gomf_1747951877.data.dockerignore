@@ -7,5 +7,4 @@
 tests/aws/**/node_modules
 tests/aws/**/.terraform
 **/__pycache__
-target/
 .coverage
