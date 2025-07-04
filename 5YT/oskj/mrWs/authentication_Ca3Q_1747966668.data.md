@@ -20,7 +20,6 @@
   * Password length validator is changed from
 
     ```
-    validates_length_of :password, within: password_length, allow_blank: true`
     ```
 
     to
