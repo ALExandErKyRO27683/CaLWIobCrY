@@ -5,4 +5,3 @@
 
 # ignore files generated in CI build
 **/__pycache__
-.coverage
