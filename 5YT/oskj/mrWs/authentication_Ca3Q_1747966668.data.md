@@ -30,6 +30,5 @@
 
     so it's possible to override `password_length` at runtime. (@manojmj92)
 * bug fixes
-  * Make `Devise` work without `ActionMailer` when `Zeitwerk` autoloader is used.
 
 for previous changes.
