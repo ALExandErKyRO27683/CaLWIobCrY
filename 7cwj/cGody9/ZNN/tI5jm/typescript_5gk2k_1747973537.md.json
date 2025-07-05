@@ -8,5 +8,4 @@
     ],
     "exclude": [
       "no-invalid-triple-slash-reference"
-  }
 }
