@@ -8,7 +8,6 @@
 
     ```
     app.credentials.secret_key_base > app.secrets.secret_key_base > application.config.secret_key_base > application.secret_key_base
-    ```
 
     Now, it always uses `application.secret_key_base`. Make sure you're using the same secret key after the upgrade; otherwise, previously generated tokens for `recoverable`, `lockable`, and `confirmable` will be invalid.
     https://github.com/heartcombo/devise/pull/5645
