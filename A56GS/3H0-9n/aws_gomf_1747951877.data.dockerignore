@@ -4,6 +4,5 @@
 **/.filesystem
 
 # ignore files generated in CI build
-tests/aws/**/node_modules
 **/__pycache__
 .coverage
