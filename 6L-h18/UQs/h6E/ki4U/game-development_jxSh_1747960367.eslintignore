@@ -16,5 +16,4 @@ scripts/
 webpack.*
 webpack-nospector.config.js
 webpack.dist.config.js
-webpack.fb.config.js
 webpack.fb.dist.config.js
