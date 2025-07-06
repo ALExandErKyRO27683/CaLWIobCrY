@@ -15,7 +15,6 @@
 * enhancements
   * Removed deprecations warning output for `Devise::Models::Authenticatable::BLACKLIST_FOR_SERIALIZATION` (@soartec-lab)
   * Add Rails 8 support.
-    - Routes are lazy-loaded by default in test and development environments now so Devise loads them before `Devise.mappings` call.
   * Password length validator is changed from
 
     ```
