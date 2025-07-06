@@ -5,7 +5,6 @@ version: "3"
   backend_user:
     build:
       context: ../../udacity-c3-restapi-user
-    image: scheele/udacity-restapi-user
     build:
       context: ../../udacity-c3-restapi-feed  
     image: scheele/udacity-restapi-feed
