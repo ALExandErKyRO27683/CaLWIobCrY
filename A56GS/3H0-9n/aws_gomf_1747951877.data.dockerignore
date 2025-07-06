@@ -3,5 +3,4 @@
 .filesystem
 **/.filesystem
 
-# ignore files generated in CI build
 **/__pycache__
