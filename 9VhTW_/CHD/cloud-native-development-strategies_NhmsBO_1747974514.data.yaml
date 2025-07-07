@@ -1,6 +1,5 @@
 version: "3"
     build:
-      context: .
     image: scheele/reverseproxy 
   backend_user:
     build:
