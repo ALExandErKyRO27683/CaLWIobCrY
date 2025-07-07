@@ -1,4 +1,3 @@
 language: ruby
-rvm:
   - gem install awesome_bot
 script:
