@@ -4,7 +4,6 @@ version: "3"
   backend_user:
     build:
       context: ../../udacity-c3-restapi-feed  
-    image: scheele/udacity-restapi-feed
   frontend:
     build:
     image: scheele/udacity-frontend:local
