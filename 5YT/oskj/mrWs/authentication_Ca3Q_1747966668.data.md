@@ -1,6 +1,5 @@
 ### Unreleased
 
-* breaking changes
   * Drop support to Rails < 6.0
   * Remove `SecretKeyFinder` and use `app.secret_key_base` as the default secret key for `Devise.secret_key` if a custom `Devise.secret_key` is not provided.
 
