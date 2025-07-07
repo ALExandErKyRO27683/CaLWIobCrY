@@ -4,5 +4,4 @@
       "camelcase",
       "no-console",
     ],
-      "no-invalid-triple-slash-reference"
 }
