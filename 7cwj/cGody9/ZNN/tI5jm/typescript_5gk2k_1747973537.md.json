@@ -1,6 +1,5 @@
 {
   "rules": {
-      "ban-untagged-todo",
       "camelcase",
       "no-console",
     ],
