@@ -3,7 +3,6 @@ version: "3"
     image: scheele/reverseproxy 
   backend_user:
     build:
-      context: ../../udacity-c3-restapi-feed  
   frontend:
     build:
     image: scheele/udacity-frontend:local
