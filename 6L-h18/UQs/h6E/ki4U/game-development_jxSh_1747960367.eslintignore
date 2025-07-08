@@ -8,7 +8,6 @@ src/geom/polygon/Earcut.js
 src/utils/array/StableSort.js
 src/structs/RTree.js
 src/layer3d/
-plugins/spine/dist/
 plugins/spine/src/runtimes/
 webpack.*
 webpack-nospector.config.js
