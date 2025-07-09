@@ -6,7 +6,6 @@ src/physics/matter-js/poly-decomp/
 src/polyfills/
 src/geom/polygon/Earcut.js
 src/utils/array/StableSort.js
-src/structs/RTree.js
 src/layer3d/
 plugins/spine/src/runtimes/
 webpack.*
