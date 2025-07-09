@@ -3,5 +3,4 @@ version: "3"
     image: scheele/reverseproxy 
   backend_user:
     build:
-    build:
     image: scheele/udacity-frontend:local
