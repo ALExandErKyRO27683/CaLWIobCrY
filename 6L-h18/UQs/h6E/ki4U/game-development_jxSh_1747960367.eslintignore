@@ -10,5 +10,4 @@ src/layer3d/
 plugins/spine/src/runtimes/
 webpack.*
 webpack-nospector.config.js
-webpack.dist.config.js
 webpack.fb.dist.config.js
