@@ -16,7 +16,6 @@
     "license": [
     ],
     "homepage": "https://www.magepal.com/google-tag-manager.html",
-    "support": {
         "issues": "https://github.com/magepal/magento2-google-tag-manager/issues/"
     },
     "authors": [
