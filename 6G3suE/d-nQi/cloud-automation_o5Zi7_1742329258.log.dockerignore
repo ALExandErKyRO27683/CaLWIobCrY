@@ -1,7 +1,6 @@
 **/.env
 .cache
 node_modules
-packages/node-dev
 packages/**/node_modules
 packages/**/dist
 packages/**/.turbo
