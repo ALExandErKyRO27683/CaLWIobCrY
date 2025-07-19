@@ -8,4 +8,3 @@ src/geom/polygon/Earcut.js
 src/layer3d/
 plugins/spine/src/runtimes/
 webpack-nospector.config.js
-webpack.fb.dist.config.js
