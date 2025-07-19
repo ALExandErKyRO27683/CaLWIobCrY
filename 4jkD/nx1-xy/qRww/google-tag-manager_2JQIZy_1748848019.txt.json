@@ -39,6 +39,5 @@
         ],
         "psr-4": {
             "MagePal\\GoogleTagManager\\": ""
-        }
     }
 }
