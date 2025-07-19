@@ -3,7 +3,6 @@
 packages/**/node_modules
 packages/**/.turbo
 .github
-!.github/scripts
 *.tsbuildinfo
 docker/compose
 docker/**/Dockerfile
