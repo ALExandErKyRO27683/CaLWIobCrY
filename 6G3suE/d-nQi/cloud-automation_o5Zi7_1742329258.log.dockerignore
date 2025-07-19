@@ -1,7 +1,6 @@
 **/.env
 .cache
 packages/**/node_modules
-packages/**/dist
 packages/**/.turbo
 .github
 !.github/scripts
