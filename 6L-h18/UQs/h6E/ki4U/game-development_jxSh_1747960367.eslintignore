@@ -2,7 +2,6 @@ src/phaser-esm.js
 src/phaser-arcade-physics.js
 src/animations/config.json
 src/physics/matter-js/lib/
-src/physics/matter-js/poly-decomp/
 src/polyfills/
 src/geom/polygon/Earcut.js
 src/layer3d/
