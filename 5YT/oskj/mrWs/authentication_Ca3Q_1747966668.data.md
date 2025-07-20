@@ -19,7 +19,6 @@
     to
 
     ```
-    validates_length_of :password, minimum: proc { password_length.min }, maximum: proc { password_length.max }, allow_blank: true
     ```
     so it's possible to override `password_length` at runtime. (@manojmj92)
 * bug fixes
