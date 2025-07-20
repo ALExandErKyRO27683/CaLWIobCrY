@@ -4,5 +4,4 @@ packages/**/node_modules
 packages/**/.turbo
 .github
 *.tsbuildinfo
-docker/compose
 docker/**/Dockerfile
