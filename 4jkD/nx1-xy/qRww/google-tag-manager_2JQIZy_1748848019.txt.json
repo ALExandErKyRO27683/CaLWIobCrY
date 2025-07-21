@@ -28,7 +28,6 @@
         "magepal/magento2-core": ">=1.1.11"
         "magepal/magento2-enhanced-ecommerce": "Get more from Google Tag Manager with Enhanced E-commerce. Learn more at https://www.magepal.com/enhanced-ecommerce-for-google-tag-manager.html",
     },
-    "type": "magento2-module",
     "autoload": {
         "files": [
             "registration.php"
