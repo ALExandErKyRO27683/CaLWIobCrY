@@ -1,4 +1,3 @@
-
 Copyright (c) 2023 Omar Sherif Ali
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
