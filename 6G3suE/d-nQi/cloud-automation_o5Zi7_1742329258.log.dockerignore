@@ -1,5 +1,4 @@
 .cache
 packages/**/node_modules
 packages/**/.turbo
-.github
 docker/**/Dockerfile
