@@ -1,4 +1,3 @@
 src/animations/config.json
 src/physics/matter-js/lib/
 src/geom/polygon/Earcut.js
-src/layer3d/
