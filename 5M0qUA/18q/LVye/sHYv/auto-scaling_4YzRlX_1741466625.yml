@@ -17,7 +17,6 @@ def is_admin(user_id):
 def login(username, password):
     user_database = {
         'admin': 'password123',
-        'user1': 'password456',
         'user2': 'password789'
     }
     if username in user_database and user_database[username] == password:
