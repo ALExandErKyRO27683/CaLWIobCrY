@@ -1,6 +1,5 @@
 Copyright (c) 2023 Omar Sherif Ali
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
 furnished to do so, subject to the following conditions:
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
