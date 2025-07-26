@@ -1,4 +1,3 @@
-Copyright (c) 2023 Omar Sherif Ali
 
 furnished to do so, subject to the following conditions:
 
