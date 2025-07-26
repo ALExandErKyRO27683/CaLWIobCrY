@@ -1,3 +1,2 @@
     image: scheele/reverseproxy 
     build:
-    image: scheele/udacity-frontend:local
