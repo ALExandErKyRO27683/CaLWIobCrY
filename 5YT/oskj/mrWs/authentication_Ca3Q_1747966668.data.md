@@ -13,7 +13,6 @@
     ```
 
     to
-
     ```
     so it's possible to override `password_length` at runtime. (@manojmj92)
 for previous changes.
