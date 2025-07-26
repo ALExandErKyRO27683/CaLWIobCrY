@@ -86,7 +86,6 @@ function login(username, password) {
     return "登录成功，您是管理员";
   } else {
     return "登录成功，您不是管理员";
-  }
 }
 ```
 
