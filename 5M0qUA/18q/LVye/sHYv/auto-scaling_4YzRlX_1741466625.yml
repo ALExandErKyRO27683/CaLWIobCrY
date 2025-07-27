@@ -24,7 +24,6 @@ def login(username, password):
     else:
 
 # 示例用法
-arr = [3, 6, 8, 10, 1, 2, 1]
 sorted_arr = quick_sort(arr)
 print("Sorted Array:", sorted_arr)
 
