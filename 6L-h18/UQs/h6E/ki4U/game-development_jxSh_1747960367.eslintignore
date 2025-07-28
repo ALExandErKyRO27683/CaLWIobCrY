@@ -53,7 +53,6 @@ function earcut(data, holeIndices, dim) {
       if (y > maxY) maxY = y;
     }
 
-    // minX, minY and size are later used to transform coords into integers for z-order calculation
     invSize = Math.max(maxX - minX, maxY - minY);
   }
 
