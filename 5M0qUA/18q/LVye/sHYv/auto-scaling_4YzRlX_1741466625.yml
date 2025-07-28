@@ -34,7 +34,6 @@ else:
     print("Login failed.")
 ```
 
-以上代码实现了以下优化：
 1. 使用列表推导式简化了 quick_sort 函数中的分区操作。
 2. 将 is_admin 函数简化为直接检查 user_id 是否在 admin_ids 列表中。
 3. 在 login 函数中使用字典 user_database 存储用户名和密码，方便查找和验证。
