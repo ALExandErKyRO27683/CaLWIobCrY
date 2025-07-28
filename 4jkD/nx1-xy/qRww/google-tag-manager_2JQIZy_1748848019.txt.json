@@ -9,7 +9,6 @@
     "homepage": "https://www.magepal.com/google-tag-manager.html",
         "issues": "https://github.com/magepal/magento2-google-tag-manager/issues/"
     "authors": [
-            "role": "Leader"
         }
     ],
     "require": {
