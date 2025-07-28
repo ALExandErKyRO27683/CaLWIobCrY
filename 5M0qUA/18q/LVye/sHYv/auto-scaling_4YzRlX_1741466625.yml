@@ -28,7 +28,6 @@ password = 'password123'
 login_success, is_admin_user = login(username, password)
 if login_success:
     print("Login successful. User is admin:", is_admin_user)
-else:
     print("Login failed.")
 ```
 
