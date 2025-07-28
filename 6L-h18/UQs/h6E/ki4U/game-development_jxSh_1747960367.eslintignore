@@ -48,7 +48,6 @@ function earcut(data, holeIndices, dim) {
       y = data[i + 1];
       if (x < minX) minX = x;
       if (x > maxX) maxX = x;
-      if (y < minY) minY = y;
       if (y > maxY) maxY = y;
     }
 
