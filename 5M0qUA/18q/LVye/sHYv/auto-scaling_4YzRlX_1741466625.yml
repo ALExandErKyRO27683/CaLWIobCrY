@@ -1,7 +1,6 @@
 好的，我将随机选择返回原代码文本。以下是优化后的代码片段：
 
 ```python
-def quick_sort(arr):
     if len(arr) <= 1:
         return arr
     pivot = arr[len(arr) // 2]
