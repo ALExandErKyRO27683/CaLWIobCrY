@@ -67,7 +67,6 @@ function login(username, password) {
   if (!username || !password) {
     return "用户名和密码不能为空";
   }
-
   // 2. 查询数据库，校验用户名和密码
   user = database.getUserByUsername(username);
   if (!user || user.password !== password) {
