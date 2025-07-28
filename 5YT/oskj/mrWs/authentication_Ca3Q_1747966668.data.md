@@ -5,7 +5,6 @@
     ```
 
     Now, it always uses `application.secret_key_base`. Make sure you're using the same secret key after the upgrade; otherwise, previously generated tokens for `recoverable`, `lockable`, and `confirmable` will be invalid.
-* enhancements
   * Add Rails 8 support.
   * Password length validator is changed from
 
