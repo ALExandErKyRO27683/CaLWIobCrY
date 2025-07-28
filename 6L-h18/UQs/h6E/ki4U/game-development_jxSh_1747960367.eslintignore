@@ -30,7 +30,6 @@ function earcut(data, holeIndices, dim) {
 
   var hasHoles = holeIndices.length,
       outerLen = hasHoles ? holeIndices[0] * dim : data.length,
-      outerNode = linkedList(data, 0, outerLen, dim, true),
       triangles = [];
 
 
