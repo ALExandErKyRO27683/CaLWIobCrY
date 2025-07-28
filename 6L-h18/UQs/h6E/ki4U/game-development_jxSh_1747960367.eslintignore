@@ -21,7 +21,6 @@ import Matter from 'matter-js';
 window.Matter = Matter;
 ```
 
-```
 // src/geom/polygon/Earcut.js
 // 以下是优化后的代码：
 
