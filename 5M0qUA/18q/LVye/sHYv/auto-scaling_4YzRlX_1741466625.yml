@@ -22,7 +22,6 @@ def login(username, password):
     if username in user_database and user_database[username] == password:
         return True, is_admin(username)
     else:
-
 # 示例用法
 sorted_arr = quick_sort(arr)
 print("Sorted Array:", sorted_arr)
