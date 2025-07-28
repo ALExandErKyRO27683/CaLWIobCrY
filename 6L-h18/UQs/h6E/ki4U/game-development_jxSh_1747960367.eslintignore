@@ -84,5 +84,3 @@ function login(username, password) {
     return "登录成功，您不是管理员";
 }
 ```
-
-希望这些优化建议和伪代码对您有所帮助！如果您有任何其他问题，请随时告诉我。
