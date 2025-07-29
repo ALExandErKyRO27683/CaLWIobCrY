@@ -60,7 +60,6 @@ function earcut(data, holeIndices, dim) {
 
 接下来，我将提供一个实现登录流程的伪代码：
 
-```
 function login(username, password) {
   // 1. 验证用户名和密码是否为空
   if (!username || !password) {
