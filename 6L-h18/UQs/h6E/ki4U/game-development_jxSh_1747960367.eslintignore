@@ -31,7 +31,6 @@ function earcut(data, holeIndices, dim) {
       outerLen = hasHoles ? holeIndices[0] * dim : data.length,
       triangles = [];
 
-
   var minX, minY, maxX, maxY, x, y, invSize;
 
   if (hasHoles) outerNode = eliminateHoles(data, holeIndices, outerNode, dim);
