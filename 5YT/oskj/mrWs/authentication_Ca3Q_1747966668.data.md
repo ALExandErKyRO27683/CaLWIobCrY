@@ -6,5 +6,4 @@
   * Password length validator is changed from
     ```
     to
-    ```
 for previous changes.
